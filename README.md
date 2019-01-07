@@ -1,4 +1,4 @@
-# Simple-Google-Search
+# Simple-Python3-Google-Search
 Simple google search with python and bs4
 
 With this code you can make a simple google search without using its API, just using python3 libraries. It is still very simple but soon i'll implement others functionalities. 
