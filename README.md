@@ -13,13 +13,13 @@ All you need to do is call the function 'search' and send as parameters the term
 
 #### Requests library
 
-If you don't have it, you install with 
+If you don't have it, you can install with 
 
 ```
 pip3 install requests
 ```
 
-Or can download at https://pypi.org/project/requests/
+Or you can download at https://pypi.org/project/requests/
 
 #### BeaultifulSoup4
 
@@ -31,7 +31,7 @@ If you’re using a recent version of Debian or Ubuntu Linux, you can install Be
 apt-get install python3-bs4
 ```
 
-If you can't, you can follow the steps at https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup
+If you can't, follow the steps at https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup
 
 ## Example
 
